@@ -1,6 +1,6 @@
 {
-  "showAds": true,
-  "reviewMode": false,
+  "showAds": false,
+  "reviewMode": true,
   "version": "1.0.0",
   "timestamp": 1731148800
 }
